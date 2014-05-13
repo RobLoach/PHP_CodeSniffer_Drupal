@@ -1,0 +1,15 @@
+name = Good Example
+description = This is a good example
+
+; File contains a class.
+files[] = GoodUnitTest.php
+
+; We have to mark this "module" as hidden, otherwise we get PHP notices in
+; Drupal's module UI.
+hidden = TRUE
+
+; Information added by Drupal.org packaging script on 2014-04-13
+version = "8.x-2.x-dev"
+core = "8.x"
+project = "coder"
+datestamp = "1397414656"
