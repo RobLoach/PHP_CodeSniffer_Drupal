@@ -1,4 +1,4 @@
-# Drupal Code Sniffer
+# Drupal Code Sniffer [![Build Status](https://travis-ci.org/RobLoach/PHP_CodeSniffer_Drupal.svg?branch=master)](https://travis-ci.org/RobLoach/PHP_CodeSniffer_Drupal)
 
 Drupal standards for [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer).
 This is a copy from [Coder module](http://drupal.org/project/coder)'s
